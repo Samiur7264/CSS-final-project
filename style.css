@@ -1,0 +1,133 @@
+ 
+      
+      body{
+        margin:0px;
+    }
+    /* Image styling start.*/
+    .cloud{
+        height:70px;
+        width:150px;
+        position:relative;
+        left:50%;
+        opacity: 60%;
+    }
+    .cloud_2{
+        height:78px;
+        width:160px;
+        position: relative;
+        left: 30%;
+        opacity: 60%;
+    }
+    .hill{
+        height:650px;
+        width:800px;
+        position:absolute;
+        left:26%;
+        top:24%;
+        
+    }
+ 
+
+    /* Image styling End.*/
+    h1{
+        color:#66BFBF;
+    }
+    .main{
+        background:rgb(232, 244, 255);
+        height:700px;
+        width:100%;
+    }
+    h1,p{
+        text-align: center;
+    }
+    /*Content area */
+    .content{
+        text-align: center;
+    }
+    .profile{
+        height:200px;
+        width:200px;
+        border-radius: 50%;
+        margin-top: 30px;
+    }
+    hr{
+        width:132px;
+        border-width:20px;
+        border-style:dotted;
+        border-top:20px;
+    }
+    /*another_div partition */
+    .Another_members{
+        width: 50%;
+        margin:40px auto 50px auto;
+        
+    }
+    .another_img{
+        height:150px;
+        width:150px;
+        border-radius:50%;
+        float: right;
+        
+        margin-right: 176px;
+    }
+
+    .another_img2{
+        height:150px;
+        width:150px;
+        border-radius:50%;
+        float:left;
+        border:2px solid black;
+        margin-right: 93px;
+    }
+   .munna{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-align:left;
+    color:dodgerblue
+   }
+   /*last section */
+   .last_section{
+    height:300px;
+    width:100%;
+    text-align: center;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+   }
+   .last_section h2{
+    color:#66BFBF;
+    font-size:33px;
+   }
+   .last_section p{
+    font-size:20px;
+   }
+
+   button{
+    width:174px;
+    height:40px;
+    color:white;
+    background:#078a8a;
+    font-size: 25px;
+    font-weight: bold;
+    margin-top:10px;
+   }
+   .footer{
+    background:#3ca8a8;
+    color:white;
+
+    height: 42px;
+    width: 100%;
+    text-align: center;
+   }
+   .footer a{
+    text-decoration: none;
+    font-size: 27px;
+    height: 60px;
+    color: white;
+    /*! margin-left:4px; */
+    font-weight: bold;
+   }
+   ul li{
+   list-style-type: none;
+   display:block;
+   float: left;
+   margin-left: 20%;
+   margin-top: 3px;
+   }
